@@ -3,11 +3,11 @@
 #### 项目介绍
 OIM是采用Java开发的一套聊天系统，为了方便对接聊天服务，这里一个用来调试OIM聊天服务接口的工具
 
-[可运行文件下载地址：](https://github.com/oimchat/oim-im-api-tools/releases)
+[可运行文件下载地址：](https://github.com/oimchat/oim-im-api-tools/releases)https://github.com/oimchat/oim-im-api-tools/releases
 
-[服务端地址：](https://gitee.com/oimchat/oim-server)
+[点击打开服务端地址](https://gitee.com/oimchat/oim-server)
 
-[客户端地址：](https://gitee.com/oimchat/oim-fx)
+[点击打客户端地址](https://gitee.com/oimchat/oim-fx)
 
 #### 截图
 
